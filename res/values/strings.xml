@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PFC-parking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_index">Index</string>
+    <string name="wellcome">Wellcome to the Parking Application</string>
+    <string name="Register">Register</string>
+    <string name="Return">Return</string>
+    <string name="Exit">Exit</string>
+    <string name="Enter">Enter</string>
+    <string name="Login">Log In</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_user_menu">UserMenu</string>
+    <string name="Continue">Continue</string>
+    <string name="question">What do you want to do?</string>
+    <string name="map">See my position</string>
+    <string name="ask">Ask for places in parking</string>
+    <string name="logOff">Log off</string>
+    <string name="title_activity_list_of_parking">ListOfParking</string>
+    <string name="title_activity_user_information">UserInformation</string>
+    <string name="see_data">See contact data</string>
+    <string name="act_record">See activity record</string>
+    <string name="do_activity">Do an activity</string>
+    <string name="title_activity_data_contact">DataContact</string>
+    <string name="title_activity_data_record">DataRecord</string>
+    <string name="d_contact">The contact data</string>
+    <string name="d_record">Record of the activities of the contact</string>
+
+</resources>
